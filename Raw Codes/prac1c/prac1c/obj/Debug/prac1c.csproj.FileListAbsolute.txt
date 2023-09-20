@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\prac1c\prac1c\bin\Debug\prac1c.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\prac1c\prac1c\bin\Debug\prac1c.exe
+c:\users\admin\documents\visual studio 2013\Projects\prac1c\prac1c\bin\Debug\prac1c.pdb
+c:\users\admin\documents\visual studio 2013\Projects\prac1c\prac1c\obj\Debug\prac1c.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\prac1c\prac1c\obj\Debug\prac1c.exe
+c:\users\admin\documents\visual studio 2013\Projects\prac1c\prac1c\obj\Debug\prac1c.pdb
